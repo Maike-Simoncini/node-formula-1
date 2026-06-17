@@ -29,7 +29,7 @@ node-formula-1/
 ## 📂 Como Rodar o Projeto Localmente
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/MAIKE-SIMONCINI/node-formula-1.git](https://github.com/MAIKE-SIMONCINI/node-formula-1.git)
+   git clone [https://github.com/Maike-Simoncini/node-formula-1.git](https://github.com/Maike-Simoncini/node-formula-1.git)
    cd node-formula-1
 
 2. **Instale as dependências:**
