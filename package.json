@@ -1,0 +1,25 @@
+{
+  "name": "node-formula-1",
+  "version": "1.0.0",
+  "description": "API leve e eficiente para gerenciamento de equipes de F1 usando Fastify.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "node",
+    "fastify",
+    "api",
+    "crud",
+    "dio",
+    "formula1"
+  ],
+  "author": "Maike Simoncini da Silva",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fastify": "^4.28.1"
+  }
+}
