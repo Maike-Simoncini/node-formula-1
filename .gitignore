@@ -1,0 +1,25 @@
+# Dependências do Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Variáveis de ambiente e credenciais locais (Segurança)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Pastas de ambiente e laboratórios locais da DIO
+.lab-dio/
+.workspace/
+
+# Caches do Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Logs e builds temporários
+dist/
+build/
+.npm
